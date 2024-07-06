@@ -1,6 +1,6 @@
-# weather_app
+# weather_app Project
 
-A new Flutter project.
+simple weather app using Flutter that displays current weather information for a given city.
 
 ## Getting Started
 
